@@ -1,3 +1,2 @@
 # YoNO
-PoC super simple onyolo.com spammer
-Python2.7
+Multi thread/proxy yolo spammer
